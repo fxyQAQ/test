@@ -15,4 +15,5 @@ data = {
     'name' : 'myname',
     'age' : 100,
 }
+print(data)
 a=saveanddict2json(data)
